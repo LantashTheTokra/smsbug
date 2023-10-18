@@ -1,1 +1,1 @@
-Related file for https://github.com/SimpleMobileTools/Simple-SMS-Messenger/issues/787 and https://github.com/SimpleMobileTools/General-Discussion/issues/237
+Related file for https://github.com/SimpleMobileTools/Simple-SMS-Messenger/issues/787 and https://github.com/SimpleMobileTools/Simple-Contacts/issues/1047 and https://github.com/SimpleMobileTools/General-Discussion/issues/237
